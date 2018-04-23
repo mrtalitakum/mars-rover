@@ -6,6 +6,13 @@ Assumptions
 
 Assumptions are that the system is being developed for people who are well trained to use it. They are aware of strict steps to input commands for the Mars Rover to execute.
 
+Environment Setup
+-----------------
+
+```
+Gradle, JAVA
+```
+
 Build
 -----
 
